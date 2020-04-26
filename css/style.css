@@ -5,4 +5,5 @@ body {
 .card {
     background-color: rgb(91, 91, 91);
     color: whitesmoke;
+    margin: 20px 0;
 }
