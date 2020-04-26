@@ -1,4 +1,8 @@
 body {
     margin: 0;
-    background-color: lightgrey;
+    background-color: rgb(181, 181, 181);
+}
+.card {
+    background-color: rgb(91, 91, 91);
+    color: whitesmoke;
 }
