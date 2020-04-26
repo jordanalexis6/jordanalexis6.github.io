@@ -6,4 +6,8 @@ body {
     background-color: rgb(145, 145, 145);
     color: whitesmoke;
     margin: 20px 0;
+    padding: 10px;
+}
+.card img {
+    padding-bottom: 10px;
 }
