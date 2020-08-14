@@ -1,7 +1,49 @@
-# jordanalexis6.github.io
+<h1 align='center'>Jordan Neill Porfolio</h1>
+<h2>💡 Project Overview</h2>
+<p>Using Bootstrap, develop  a portfolio site with the following items:
+<ul>
+    <li>Create the following files: `index.html`, `portfolio.html` and `contact.html`.</li>
+    <li>A navbar</li>
+    <li>A responsive layout</li>
+    <li>Responsive images</li>
+    <li>The Bootstrap portfolio should minimize the use of media queries.</li>
+    <li>100 Commits</li>
+    <li>Create a repository with format <GITHUBUSERNAME>.github.io</li>
 
-I am using this Github repository for my portfolio page.
-I have an index.html that will be my home page, portfolio.html with all of my soon to be work, and a contact.html for all my contact info.
-I also have a style.css page for these pages. 
-I have linked reset.css and bootstrap to the head of all my html pages.
-I also added the js link to make the bootstrap work on my page.
+</ul>
+
+<a href='https://jordanalexis.github.io/' target='_blank'>Live Portfolio Link</a>
+
+</p>
+<h2>⚙️ List of Technology Used</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+<h2>📓 Contributor(s)</h2>
+<div>Jordan Neill</div>
+    <li><a href='https://github.com/jordanalexis6.github.io' target='_blank'>GitHub</a></li>
+    <li><a href='https://www.linkedin.com/in/jordanalexis6' target='_blank'>LinkedIn</a></li>
+    <li>jordan.a.neill@gmail.com</li>
+</ul>
+
+<h2>⚓ Minimum Requirements</h2>
+
+- Functional, deployed application
+
+- GitHub repository with README describing the project
+
+- Navbar must be consistent on each page.
+
+- Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+
+- All links must work.
+
+- Must use semantic html.
+
+- Each page must have valid and correct HTML. (use a validation service)
+
+- Must contain your personalized information. (bio, name, images, links to social media, etc.)
+
+- Must properly utilize Bootstrap components and grid system.
