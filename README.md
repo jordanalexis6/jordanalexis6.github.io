@@ -17,9 +17,11 @@
 </p>
 <h2>⚙️ List of Technology Used</h2>
 <ul>
+    <li>JavaScript</li>
+    <li>jQuery</li>
+    <li>PHP</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript</li>
 </ul>
 <h2>📓 Contributor(s)</h2>
 <div>Jordan Neill</div>
