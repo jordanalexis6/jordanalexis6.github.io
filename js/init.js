@@ -184,5 +184,9 @@ jQuery(document).ready(function ($) {
       contactSubject +
       "&Body=" +
       contactMessage;
+
+    $("#contactName").val("");
+    var contactSubject = contactName + " - " + $("#contactSubject").val("");
+    var contactMessage = $("#contactMessage").val("");
   });
 });
