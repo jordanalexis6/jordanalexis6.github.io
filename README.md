@@ -12,11 +12,11 @@
 
 </ul>
 
-<a href='https://jordanalexis.github.io/' target='_blank'>Live Portfolio Link</a>
+<a href='https://jordanalexis6.github.io/' target='_blank'>Live Portfolio Link</a>
 
 </p>
 <h2>⚙️ List of Technology Used</h2>
-<ul>
+<ul> n
     <li>JavaScript</li>
     <li>jQuery</li>
     <li>PHP</li>
