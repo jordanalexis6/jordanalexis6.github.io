@@ -16,7 +16,7 @@
 
 </p>
 <h2>⚙️ List of Technology Used</h2>
-<ul> n
+<ul> 
     <li>JavaScript</li>
     <li>jQuery</li>
     <li>PHP</li>
